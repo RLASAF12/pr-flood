@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-guardrails](https://github.com/RLASAF12/agent-guardrails/tree/main/pr-flood) (folder `pr-flood/`, full history preserved). Archived 2026-10-04.
+
 # 🌊 pr-flood
 
 **AI PR triage for open-source maintainers.**
